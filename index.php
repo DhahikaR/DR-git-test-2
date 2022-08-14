@@ -10,6 +10,8 @@
     
     <h1>Hello Wolrd</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam in accusamus, temporibus facere pariatur voluptatum cum recusandae hic ea, at asperiores repudiandae voluptatem architecto obcaecati. Optio quibusdam impedit adipisci obcaecati?</p>
+    <li>satu</li>
+    <li>dua</li>
 
 </body>
 </html>
